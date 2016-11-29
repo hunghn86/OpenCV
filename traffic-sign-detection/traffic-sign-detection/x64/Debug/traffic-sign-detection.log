@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\hoang ngoc hung\desktop\opencv\traffic-sign-detection\traffic-sign-detection\src\img_processing\colorconversion.h(65): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\hoang ngoc hung\desktop\opencv\traffic-sign-detection\traffic-sign-detection\src\img_processing\colorconversion.h(67): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  traffic-sign-detection.vcxproj -> C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\traffic-sign-detection\x64\Debug\traffic-sign-detection.exe
+  traffic-sign-detection.vcxproj -> C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\traffic-sign-detection\x64\Debug\traffic-sign-detection.pdb (Partial PDB)

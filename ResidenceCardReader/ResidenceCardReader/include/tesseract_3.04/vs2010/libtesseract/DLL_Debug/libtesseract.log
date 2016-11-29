@@ -1,0 +1,63 @@
+﻿  adaptions.cpp
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\ccmain\tesseractclass.h(29): fatal error C1083: Cannot open include file: 'allheaders.h': No such file or directory
+  imagedata.cpp
+..\..\ccstruct\imagedata.cpp(27): fatal error C1083: Cannot open include file: 'allheaders.h': No such file or directory
+  adaptive.cpp
+  adaptmatch.cpp
+  openclwrapper.cpp
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\opencl\openclwrapper.h(2): fatal error C1083: Cannot open include file: 'allheaders.h': No such file or directory
+  alignedblob.cpp
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\textord\bbgrid.h(30): fatal error C1083: Cannot open include file: 'allheaders.h': No such file or directory
+  altlist.cpp
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\cube\cube_utils.h(29): fatal error C1083: Cannot open include file: 'allheaders.h': No such file or directory
+  ambigs.cpp
+  applybox.cpp
+..\..\ccmain\applybox.cpp(30): fatal error C1083: Cannot open include file: 'allheaders.h': No such file or directory
+  associate.cpp
+  baseapi.cpp
+..\..\api\baseapi.cpp(52): fatal error C1083: Cannot open include file: 'allheaders.h': No such file or directory
+  pdfrenderer.cpp
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\api\renderer.h(186): warning C4251: 'tesseract::TessPDFRenderer::offsets_': class 'GenericVector<long>' needs to have dll-interface to be used by clients of class 'tesseract::TessPDFRenderer'
+  c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\api\renderer.h(186): note: see declaration of 'GenericVector<long>'
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\api\renderer.h(187): warning C4251: 'tesseract::TessPDFRenderer::pages_': class 'GenericVector<long>' needs to have dll-interface to be used by clients of class 'tesseract::TessPDFRenderer'
+  c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\api\renderer.h(186): note: see declaration of 'GenericVector<long>'
+..\..\api\pdfrenderer.cpp(28): fatal error C1083: Cannot open include file: 'allheaders.h': No such file or directory
+  basedir.cpp
+  bbgrid.cpp
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\textord\bbgrid.h(30): fatal error C1083: Cannot open include file: 'allheaders.h': No such file or directory
+  beam_search.cpp
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\cube\cube_utils.h(29): fatal error C1083: Cannot open include file: 'allheaders.h': No such file or directory
+  bits16.cpp
+  bitvec.cpp
+  bitvector.cpp
+  blkocc.cpp
+  blobbox.cpp
+..\..\ccstruct\blobbox.cpp(26): fatal error C1083: Cannot open include file: 'allheaders.h': No such file or directory
+  Generating Code...
+  Compiling...
+  blobclass.cpp
+  blobgrid.cpp
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\textord\bbgrid.h(30): fatal error C1083: Cannot open include file: 'allheaders.h': No such file or directory
+  blobs.cpp
+  blread.cpp
+  bmp_8.cpp
+  boxread.cpp
+  boxword.cpp
+  cached_file.cpp
+  callcpp.cpp
+  capi.cpp
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\api\renderer.h(186): warning C4251: 'tesseract::TessPDFRenderer::offsets_': class 'GenericVector<long>' needs to have dll-interface to be used by clients of class 'tesseract::TessPDFRenderer'
+  c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\api\renderer.h(186): note: see declaration of 'GenericVector<long>'
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\api\renderer.h(187): warning C4251: 'tesseract::TessPDFRenderer::pages_': class 'GenericVector<long>' needs to have dll-interface to be used by clients of class 'tesseract::TessPDFRenderer'
+  c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\api\renderer.h(186): note: see declaration of 'GenericVector<long>'
+  ccnontextdetect.cpp
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\textord\bbgrid.h(30): fatal error C1083: Cannot open include file: 'allheaders.h': No such file or directory
+  ccstruct.cpp
+  ccutil.cpp
+  char_altlist.cpp
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\cube\cube_utils.h(29): fatal error C1083: Cannot open include file: 'allheaders.h': No such file or directory
+  char_bigrams.cpp
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\cube\cube_utils.h(29): fatal error C1083: Cannot open include file: 'allheaders.h': No such file or directory
+  char_samp.cpp
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\tesseract_3.04\cube\cube_utils.h(29): fatal error C1083: Cannot open include file: 'allheaders.h': No such file or directory
+  char_samp_enum.cpp

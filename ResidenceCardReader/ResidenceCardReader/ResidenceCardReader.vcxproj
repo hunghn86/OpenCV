@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{D8E6B8A4-15F7-4C58-95CC-AE6EFC0412A9}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>ConsoleApplication1</RootNamespace>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
+    <ProjectName>ResidenceCardReader</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v140</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;_DEBUG</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\vs2010\port;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\api;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\ccmain;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\ccutil;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\ccstruct;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\classify;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\cube;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\cutil;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\dict;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\neural_networks\runtime;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\textord;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\viewer;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\opencl;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\wordrec;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\liblept;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\leptonica\src;C:\opencv\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>opencv_world310d.lib;liblept.lib;libtesseract.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:\opencv\build\x64\vc14\lib;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>C:\opencv\build\include;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>opencv_world310d.lib;libtesseract302d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:\opencv\build\x64\vc14\lib;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;_ITERATOR_DEBUG_LEVEL=2;NDEBUG</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\vs2010\port;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\api;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\ccmain;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\ccutil;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\ccstruct;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\classify;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\cube;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\cutil;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\dict;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\neural_networks\runtime;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\textord;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\viewer;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\opencl;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract_3.04\wordrec;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\liblept;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\leptonica\src;C:\opencv\build\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>opencv_world310.lib;liblept.lib;libtesseract.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\lib;C:\opencv\build\x64\vc14\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>C:\opencv\build\include;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\include\tesseract;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>opencv_world310.lib;libtesseract302.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:\opencv\build\x64\vc14\lib;C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\ResidenceCardReader\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ResidenceCardReader.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ResidenceCardReader.rc" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

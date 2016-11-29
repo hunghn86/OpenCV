@@ -1,0 +1,553 @@
+﻿  adaptmap.c
+  affine.c
+  affinecompose.c
+  arrayaccess.c
+..\leptonica\src\affine.c(810): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\affine.c(1598): warning C4390: ';': empty controlled statement found; is this the intent?
+  bardecode.c
+  baseline.c
+  bbuffer.c
+  bilateral.c
+..\leptonica\src\bardecode.c(225): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bardecode.c(242): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bardecode.c(259): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bardecode.c(276): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bardecode.c(293): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bardecode.c(316): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bardecode.c(386): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bardecode.c(466): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bardecode.c(565): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bardecode.c(612): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\bardecode.c(623): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\bardecode.c(680): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bardecode.c(764): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bbuffer.c(340): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bardecode.c(847): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bbuffer.c(411): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bardecode.c(910): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\bbuffer.c(463): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bardecode.c(967): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bardecode.c(1030): warning C4390: ';': empty controlled statement found; is this the intent?
+  bilinear.c
+  binarize.c
+  binexpand.c
+  binreduce.c
+..\leptonica\src\binexpand.c(199): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\bilinear.c(672): warning C4390: ';': empty controlled statement found; is this the intent?
+  blend.c
+  bmf.c
+  bmpio.c
+  bmpiostub.c
+..\leptonica\src\bmf.c(343): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\bmf.c(501): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bmf.c(503): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bmf.c(505): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bmf.c(507): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bmpio.c(217): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\bmf.c(509): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bmf.c(511): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bmf.c(513): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bmf.c(515): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+  bootnumgen1.c
+  bootnumgen2.c
+..\leptonica\src\bmf.c(517): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bmpio.c(406): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\bmpio.c(607): warning C4390: ';': empty controlled statement found; is this the intent?
+  bootnumgen3.c
+  boxbasic.c
+..\leptonica\src\bootnumgen1.c(266): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\bootnumgen2.c(282): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+  boxfunc1.c
+  boxfunc2.c
+..\leptonica\src\bootnumgen3.c(359): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\boxbasic.c(1530): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\boxbasic.c(1956): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\boxbasic.c(2183): warning C4390: ';': empty controlled statement found; is this the intent?
+  boxfunc3.c
+  boxfunc4.c
+..\leptonica\src\boxfunc1.c(1583): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\boxfunc2.c(1609): warning C4390: ';': empty controlled statement found; is this the intent?
+  bytearray.c
+..\leptonica\src\boxfunc3.c(697): warning C4101: 'dval': unreferenced local variable
+  ccbord.c
+  ccthin.c
+..\leptonica\src\boxfunc4.c(1563): warning C4101: 'boxa1': unreferenced local variable
+..\leptonica\src\boxfunc4.c(2059): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\boxfunc4.c(2079): warning C4390: ';': empty controlled statement found; is this the intent?
+  classapp.c
+..\leptonica\src\bytearray.c(436): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\ccbord.c(1628): warning C4390: ';': empty controlled statement found; is this the intent?
+  colorcontent.c
+  coloring.c
+  colormap.c
+  colormorph.c
+..\leptonica\src\colorcontent.c(792): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\colorcontent.c(1083): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\colorcontent.c(1290): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\colorcontent.c(1524): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\coloring.c(166): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\coloring.c(171): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\coloring.c(263): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\coloring.c(269): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\coloring.c(395): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\coloring.c(401): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\coloring.c(406): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\coloring.c(408): warning C4390: ';': empty controlled statement found; is this the intent?
+  colorquant1.c
+..\leptonica\src\colormap.c(1604): warning C4390: ';': empty controlled statement found; is this the intent?
+  colorquant2.c
+  colorseg.c
+  colorspace.c
+..\leptonica\src\colorquant1.c(2457): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\colorquant2.c(671): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\colorseg.c(234): warning C4390: ';': empty controlled statement found; is this the intent?
+  compare.c
+  conncomp.c
+  convertfiles.c
+  convolve.c
+..\leptonica\src\compare.c(868): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\compare.c(987): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\compare.c(2567): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\compare.c(3110): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  correlscore.c
+  dewarp1.c
+  dewarp2.c
+  dewarp3.c
+..\leptonica\src\dewarp2.c(232): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp2.c(308): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp1.c(1275): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp1.c(1362): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp2.c(577): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp1.c(1555): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp2.c(795): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp2.c(967): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp2.c(1174): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp2.c(1176): warning C4390: ';': empty controlled statement found; is this the intent?
+  dewarp4.c
+  dnabasic.c
+  dnafunc1.c
+..\leptonica\src\dewarp3.c(574): warning C4390: ';': empty controlled statement found; is this the intent?
+  dnahash.c
+..\leptonica\src\dewarp4.c(262): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp4.c(367): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp4.c(370): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp4.c(373): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp4.c(376): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp4.c(380): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp4.c(383): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp4.c(387): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp4.c(390): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp4.c(393): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp4.c(458): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\dewarp4.c(936): warning C4390: ';': empty controlled statement found; is this the intent?
+  dwacomb.2.c
+  dwacomblow.2.c
+  edge.c
+  encoding.c
+  enhance.c
+  fhmtauto.c
+  fhmtgen.1.c
+  fhmtgenlow.1.c
+..\leptonica\src\enhance.c(730): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\fhmtauto.c(396): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\fhmtauto.c(598): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  finditalic.c
+  flipdetect.c
+  fliphmtgen.c
+  fmorphauto.c
+  fmorphgen.1.c
+  fmorphgenlow.1.c
+  fpix1.c
+..\leptonica\src\fmorphauto.c(458): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\fmorphauto.c(645): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  fpix2.c
+  gifio.c
+..\leptonica\src\fpix1.c(1794): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\fpix1.c(2093): warning C4390: ';': empty controlled statement found; is this the intent?
+  gifiostub.c
+  gplot.c
+..\leptonica\src\fpix2.c(398): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\fpix2.c(377): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\fpix2.c(379): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\fpix2.c(618): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\fpix2.c(595): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\fpix2.c(597): warning C4390: ';': empty controlled statement found; is this the intent?
+  graphics.c
+  graymorph.c
+..\leptonica\src\gifio.c(164): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2450): note: see declaration of 'fileno'
+..\leptonica\src\gifio.c(387): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2450): note: see declaration of 'fileno'
+..\leptonica\src\gifio.c(559): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\gifio.c(429): warning C4101: 'giferr': unreferenced local variable
+..\leptonica\src\gifio.c(658): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  grayquant.c
+  grayquantlow.c
+  heap.c
+..\leptonica\src\graymorph.c(248): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\graymorph.c(364): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\graymorph.c(496): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\graymorph.c(627): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\grayquant.c(1771): warning C4390: ';': empty controlled statement found; is this the intent?
+  jbclass.c
+  jp2kheader.c
+  jp2kheaderstub.c
+  jp2kio.c
+..\leptonica\src\jp2kheader.c(131): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  jp2kiostub.c
+..\leptonica\src\jbclass.c(1483): warning C4390: ';': empty controlled statement found; is this the intent?
+  jpegio.c
+..\leptonica\src\jp2kio.c(288): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\jp2kio.c(366): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\jp2kio.c(376): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\jp2kio.c(542): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\jp2kio.c(544): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\jp2kio.c(799): warning C4390: ';': empty controlled statement found; is this the intent?
+  jpegiostub.c
+  kernel.c
+  leptwin.c
+..\leptonica\src\jpegio.c(905): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+..\leptonica\src\jpegio.c(1003): warning C4390: ';': empty controlled statement found; is this the intent?
+  libversions.c
+  list.c
+  map.c
+..\leptonica\src\list.c(252): warning C4390: ';': empty controlled statement found; is this the intent?
+  morph.c
+  morphapp.c
+  morphdwa.c
+..\leptonica\src\morphapp.c(281): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\morphapp.c(1432): warning C4390: ';': empty controlled statement found; is this the intent?
+  morphseq.c
+  numabasic.c
+  numafunc1.c
+..\leptonica\src\leptwin.c(179): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+..\leptonica\src\morphseq.c(202): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\morphseq.c(372): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\morphseq.c(523): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\morphseq.c(674): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\morphseq.c(791): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  numafunc2.c
+..\leptonica\src\numafunc1.c(2676): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\numabasic.c(1173): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\numabasic.c(1859): warning C4390: ';': empty controlled statement found; is this the intent?
+  pageseg.c
+  paintcmap.c
+  parseprotos.c
+..\leptonica\src\numafunc2.c(525): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\numafunc2.c(577): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\numafunc2.c(637): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\numafunc2.c(1770): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\numafunc2.c(1861): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\paintcmap.c(432): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\paintcmap.c(434): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pageseg.c(1339): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pageseg.c(1341): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pageseg.c(1472): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\parseprotos.c(292): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\parseprotos.c(342): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\parseprotos.c(567): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\parseprotos.c(590): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\parseprotos.c(680): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\parseprotos.c(750): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\parseprotos.c(822): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\parseprotos.c(913): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  partition.c
+  pdfio1.c
+  pdfio1stub.c
+  pdfio2.c
+..\leptonica\src\pdfio1.c(312): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pdfio1.c(577): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pdfio1.c(776): warning C4390: ';': empty controlled statement found; is this the intent?
+  pdfio2stub.c
+..\leptonica\src\pdfio1.c(1507): warning C4390: ';': empty controlled statement found; is this the intent?
+  pix1.c
+..\leptonica\src\pdfio2.c(543): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pdfio2.c(712): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pdfio2.c(821): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\pdfio2.c(1193): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\pdfio2.c(1362): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\pdfio2.c(2022): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\pdfio2.c(2080): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  pix2.c
+  pix3.c
+  pix4.c
+..\leptonica\src\pix2.c(869): warning C4018: '>=': signed/unsigned mismatch
+..\leptonica\src\pix2.c(1113): warning C4018: '>=': signed/unsigned mismatch
+..\leptonica\src\pix2.c(1120): warning C4018: '>': signed/unsigned mismatch
+  pix5.c
+..\leptonica\src\pix2.c(1570): warning C4018: '>=': signed/unsigned mismatch
+..\leptonica\src\pix2.c(1834): warning C4018: '>=': signed/unsigned mismatch
+..\leptonica\src\pix2.c(2451): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pix2.c(2591): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pix3.c(222): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pix3.c(848): warning C4390: ';': empty controlled statement found; is this the intent?
+  pixabasic.c
+  pixacc.c
+..\leptonica\src\pix5.c(2730): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\pix5.c(2731): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pix5.c(2739): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\pix5.c(2740): warning C4018: '>': signed/unsigned mismatch
+  pixafunc1.c
+..\leptonica\src\pixabasic.c(1610): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pixabasic.c(2127): warning C4390: ';': empty controlled statement found; is this the intent?
+  pixafunc2.c
+..\leptonica\src\pixabasic.c(2501): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pixabasic.c(2873): warning C4390: ';': empty controlled statement found; is this the intent?
+  pixalloc.c
+  pixarith.c
+..\leptonica\src\pixafunc2.c(1398): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pixafunc2.c(2424): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pixalloc.c(210): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+..\leptonica\src\pixalloc.c(220): warning C4267: '+=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\pixalloc.c(189): warning C4390: ';': empty controlled statement found; is this the intent?
+  pixcomp.c
+  pixconv.c
+  pixlabel.c
+..\leptonica\src\pixarith.c(287): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pixarith.c(289): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pixarith.c(379): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pixarith.c(381): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pixarith.c(496): warning C4018: '>=': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(513): warning C4018: '<=': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(692): warning C4018: '>=': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1192): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1193): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1194): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1195): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1196): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1197): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1198): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1199): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1201): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1202): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1203): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1204): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1206): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1207): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1209): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1373): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1374): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\pixarith.c(1375): warning C4018: '>': signed/unsigned mismatch
+  pixtiling.c
+..\leptonica\src\pixcomp.c(520): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pixcomp.c(529): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pixcomp.c(1554): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pixcomp.c(1724): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pixconv.c(1369): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pixcomp.c(1918): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pixconv.c(1556): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pixconv.c(1560): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pixconv.c(1587): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pixconv.c(3130): warning C4390: ';': empty controlled statement found; is this the intent?
+  pngio.c
+  pngiostub.c
+  pnmio.c
+  pnmiostub.c
+..\leptonica\src\pnmio.c(633): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pngio.c(242): warning C4267: '=': conversion from 'size_t' to 'png_uint_32', possible loss of data
+..\leptonica\src\pngio.c(287): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\pngio.c(290): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\pngio.c(296): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\pngio.c(299): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\pngio.c(310): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\pngio.c(313): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\pngio.c(383): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\pngio.c(386): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\pngio.c(388): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\pngio.c(401): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\pngio.c(404): warning C4018: '<': signed/unsigned mismatch
+  projective.c
+  psio1.c
+..\leptonica\src\pngio.c(382): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pngio.c(564): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\pnmio.c(1098): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pngio.c(649): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\pngio.c(1161): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\pngio.c(1181): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\pngio.c(1189): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\pngio.c(1191): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\pngio.c(1302): warning C4390: ';': empty controlled statement found; is this the intent?
+  psio1stub.c
+  psio2.c
+..\leptonica\src\psio1.c(168): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\psio1.c(212): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\psio1.c(282): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\psio1.c(331): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\psio1.c(953): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\projective.c(672): warning C4390: ';': empty controlled statement found; is this the intent?
+  psio2stub.c
+  ptabasic.c
+  ptafunc1.c
+..\leptonica\src\psio2.c(224): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\psio2.c(575): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\psio2.c(577): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\psio2.c(579): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\psio2.c(581): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\psio2.c(679): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\psio2.c(884): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\psio2.c(1076): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\psio2.c(1275): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\psio2.c(1554): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\psio2.c(1759): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  ptafunc2.c
+  ptra.c
+..\leptonica\src\ptabasic.c(755): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\ptabasic.c(1354): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\ptafunc1.c(2373): warning C4390: ';': empty controlled statement found; is this the intent?
+  quadtree.c
+  queue.c
+  rank.c
+..\leptonica\src\ptra.c(610): warning C4390: ';': empty controlled statement found; is this the intent?
+  rbtree.c
+..\leptonica\src\quadtree.c(671): warning C4390: ';': empty controlled statement found; is this the intent?
+  readbarcode.c
+  readfile.c
+  recogbasic.c
+  recogdid.c
+..\leptonica\src\readbarcode.c(907): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\readbarcode.c(1223): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\readbarcode.c(1227): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\readbarcode.c(1232): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\readbarcode.c(1335): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\readfile.c(1515): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\recogbasic.c(681): warning C4390: ';': empty controlled statement found; is this the intent?
+  recogident.c
+  recogtrain.c
+..\leptonica\src\recogbasic.c(1081): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\recogbasic.c(1202): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\recogbasic.c(1505): warning C4390: ';': empty controlled statement found; is this the intent?
+  rop.c
+..\leptonica\src\recogident.c(222): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\recogident.c(566): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\recogident.c(576): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\recogtrain.c(251): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\recogtrain.c(427): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\recogident.c(1826): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\recogident.c(1831): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\recogident.c(1837): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\recogident.c(1844): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\recogtrain.c(1241): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\recogtrain.c(1199): warning C4101: 'pixa': unreferenced local variable
+..\leptonica\src\recogtrain.c(2103): warning C4390: ';': empty controlled statement found; is this the intent?
+  ropiplow.c
+  roplow.c
+  rotate.c
+  rotateam.c
+..\leptonica\src\rotate.c(134): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\rotate.c(562): warning C4390: ';': empty controlled statement found; is this the intent?
+  rotateamlow.c
+  rotateorth.c
+  rotateshear.c
+  runlength.c
+  sarray1.c
+..\leptonica\src\rotateshear.c(217): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\rotateshear.c(267): warning C4390: ';': empty controlled statement found; is this the intent?
+  sarray2.c
+  scale.c
+  scalelow.c
+..\leptonica\src\sarray1.c(231): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\sarray1.c(282): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\sarray1.c(830): warning C4267: '+=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\sarray1.c(839): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\sarray1.c(1041): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\sarray1.c(1457): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\sarray1.c(1524): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\sarray1.c(1813): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\sarray2.c(196): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\sarray2.c(197): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\scale.c(976): warning C4390: ';': empty controlled statement found; is this the intent?
+  seedfill.c
+..\leptonica\src\scale.c(3349): warning C4390: ';': empty controlled statement found; is this the intent?
+  seedfilllow.c
+  sel1.c
+..\leptonica\src\seedfill.c(1328): warning C4018: '>': signed/unsigned mismatch
+..\leptonica\src\seedfill.c(1346): warning C4018: '<=': signed/unsigned mismatch
+  sel2.c
+  selgen.c
+..\leptonica\src\sel1.c(248): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\sel1.c(1863): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\sel1.c(2112): warning C4390: ';': empty controlled statement found; is this the intent?
+  shear.c
+..\leptonica\src\selgen.c(200): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\selgen.c(205): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\selgen.c(211): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\selgen.c(216): warning C4390: ';': empty controlled statement found; is this the intent?
+  skew.c
+  spixio.c
+  stack.c
+  stringcode.c
+  strokes.c
+..\leptonica\src\spixio.c(186): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\spixio.c(464): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  sudoku.c
+  textops.c
+..\leptonica\src\stringcode.c(442): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\stringcode.c(505): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\stringcode.c(729): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+  tiffio.c
+..\leptonica\src\strokes.c(403): warning C4101: 'i': unreferenced local variable
+..\leptonica\src\strokes.c(403): warning C4101: 'n': unreferenced local variable
+..\leptonica\src\strokes.c(403): warning C4101: 'd': unreferenced local variable
+  tiffiostub.c
+..\leptonica\src\textops.c(593): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\textops.c(735): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\textops.c(906): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\textops.c(995): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\textops.c(1085): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  utils.c
+  viewfiles.c
+..\leptonica\src\tiffio.c(398): warning C4101: 'i': unreferenced local variable
+..\leptonica\src\tiffio.c(508): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\tiffio.c(540): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\tiffio.c(541): warning C4018: '<': signed/unsigned mismatch
+..\leptonica\src\tiffio.c(483): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\tiffio.c(1051): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\tiffio.c(1915): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\tiffio.c(2163): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+  warper.c
+  watershed.c
+..\leptonica\src\watershed.c(666): warning C4018: '>=': signed/unsigned mismatch
+  webpio.c
+  webpiostub.c
+..\leptonica\src\webpio.c(185): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\webpio.c(188): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\webpio.c(184): warning C4390: ';': empty controlled statement found; is this the intent?
+  writefile.c
+  zlibmem.c
+..\leptonica\src\utils.c(352): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(469): warning C4267: 'return': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(516): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(597): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(598): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(677): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(867): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(978): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(979): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(980): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(1093): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(1147): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(1328): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(1442): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+..\leptonica\src\utils.c(1446): warning C4390: ';': empty controlled statement found; is this the intent?
+..\leptonica\src\utils.c(1541): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+..\leptonica\src\utils.c(2973): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(2979): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(2993): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(3001): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(3010): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(2964): warning C4996: 'getcwd': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getcwd. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\direct.h(91): note: see declaration of 'getcwd'
+..\leptonica\src\utils.c(3227): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(3290): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(3293): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(3295): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(3354): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\utils.c(3357): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\zlibmem.c(114): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\zlibmem.c(145): warning C4267: '=': conversion from 'size_t' to 'uInt', possible loss of data
+..\leptonica\src\zlibmem.c(155): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+  zlibmemstub.c
+..\leptonica\src\zlibmem.c(216): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+..\leptonica\src\zlibmem.c(241): warning C4267: '=': conversion from 'size_t' to 'uInt', possible loss of data
+..\leptonica\src\zlibmem.c(250): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+  liblept.vcxproj -> C:\Users\Hoang Ngoc HUNG\Documents\VS2015_Tesseract\x64\Release\liblept.lib

@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  ResidenceCardReader.cpp
+c:\users\hoang ngoc hung\desktop\opencv\residencecardreader\residencecardreader\include\leptonica\src\pix.h(241): warning C4305: 'initializing': truncation from 'double' to 'l_float32'
+c:\users\hoang ngoc hung\desktop\opencv\residencecardreader\residencecardreader\include\leptonica\src\pix.h(243): warning C4305: 'initializing': truncation from 'double' to 'l_float32'
+c:\users\hoang ngoc hung\desktop\opencv\residencecardreader\residencecardreader\residencecardreader.cpp(155): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hoang ngoc hung\desktop\opencv\residencecardreader\residencecardreader\residencecardreader.cpp(156): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hoang ngoc hung\desktop\opencv\residencecardreader\residencecardreader\residencecardreader.cpp(157): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\hoang ngoc hung\desktop\opencv\residencecardreader\residencecardreader\residencecardreader.cpp(176): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\hoang ngoc hung\desktop\opencv\residencecardreader\residencecardreader\residencecardreader.cpp(176): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  ResidenceCardReader.vcxproj -> C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\x64\Debug\ResidenceCardReader.exe
+  ResidenceCardReader.vcxproj -> C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\ResidenceCardReader\x64\Debug\ResidenceCardReader.pdb (Full PDB)

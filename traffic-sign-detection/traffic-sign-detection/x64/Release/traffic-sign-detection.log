@@ -1,0 +1,75 @@
+﻿  main.cpp
+C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\traffic-sign-detection\traffic-sign-detection\src\img_processing/colorConversion.h(65): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\traffic-sign-detection\traffic-sign-detection\src\img_processing/colorConversion.h(67): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  random-standalone.cpp
+  timer.cpp
+  colorConversion.cpp
+c:\users\hoang ngoc hung\desktop\opencv\traffic-sign-detection\traffic-sign-detection\src\img_processing\colorConversion.h(65): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\hoang ngoc hung\desktop\opencv\traffic-sign-detection\traffic-sign-detection\src\img_processing\colorConversion.h(67): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  contour.cpp
+src\img_processing\contour.cpp(58): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+src\img_processing\contour.cpp(58): warning C4305: 'initializing': truncation from 'double' to 'float'
+src\img_processing\contour.cpp(64): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+src\img_processing\contour.cpp(64): warning C4305: 'initializing': truncation from 'double' to 'float'
+src\img_processing\contour.cpp(72): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+src\img_processing\contour.cpp(73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+src\img_processing\contour.cpp(240): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+src\img_processing\contour.cpp(241): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+src\img_processing\contour.cpp(406): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+src\img_processing\contour.cpp(407): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+src\img_processing\contour.cpp(408): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+src\img_processing\contour.cpp(409): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+src\img_processing\contour.cpp(431): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\img_processing\contour.cpp(440): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\img_processing\contour.cpp(459): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\img_processing\contour.cpp(468): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\img_processing\contour.cpp(487): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\img_processing\contour.cpp(496): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\img_processing\contour.cpp(698): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+src\img_processing\contour.cpp(742): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+src\img_processing\contour.cpp(747): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+src\img_processing\contour.cpp(749): warning C4244: 'argument': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\traffic-sign-detection\traffic-sign-detection\src\common/math_utils.h(102): warning C4305: '+=': truncation from 'double' to 'float'
+  C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\traffic-sign-detection\traffic-sign-detection\src\common/math_utils.h(98): note: while compiling class template member function 'void cv::PointPolar_<float>::eucl_to_polar(const cv::Point_<float> &)'
+  src\img_processing\contour.cpp(726): note: see reference to function template instantiation 'void cv::PointPolar_<float>::eucl_to_polar(const cv::Point_<float> &)' being compiled
+  src\img_processing\contour.cpp(726): note: see reference to class template instantiation 'cv::PointPolar_<float>' being compiled
+C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\traffic-sign-detection\traffic-sign-detection\src\common/math_utils.h(103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  imageProcessing.cpp
+src\img_processing\imageProcessing.cpp(113): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+src\img_processing\imageProcessing.cpp(113): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+src\img_processing\imageProcessing.cpp(115): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+src\img_processing\imageProcessing.cpp(115): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+src\img_processing\imageProcessing.cpp(116): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+src\img_processing\imageProcessing.cpp(116): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+src\img_processing\imageProcessing.cpp(119): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+src\img_processing\imageProcessing.cpp(119): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+src\img_processing\imageProcessing.cpp(147): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+src\img_processing\imageProcessing.cpp(165): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+src\img_processing\imageProcessing.cpp(323): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+src\img_processing\imageProcessing.cpp(338): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+src\img_processing\imageProcessing.cpp(338): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+src\img_processing\imageProcessing.cpp(339): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+src\img_processing\imageProcessing.cpp(339): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+src\img_processing\imageProcessing.cpp(342): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+src\img_processing\imageProcessing.cpp(342): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+src\img_processing\imageProcessing.cpp(343): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+src\img_processing\imageProcessing.cpp(343): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+src\img_processing\imageProcessing.cpp(344): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+src\img_processing\imageProcessing.cpp(344): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+src\img_processing\imageProcessing.cpp(349): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\img_processing\imageProcessing.cpp(371): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\img_processing\imageProcessing.cpp(372): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\img_processing\imageProcessing.cpp(375): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\img_processing\imageProcessing.cpp(376): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  segmentation.cpp
+  smartOptimisation.cpp
+src\optimization\smartOptimisation.cpp(107): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+src\optimization\smartOptimisation.cpp(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SuperFormula.cpp
+src\optimization\SuperFormula.cpp(1318): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const double', possible loss of data
+src\optimization\SuperFormula.cpp(1328): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const double', possible loss of data
+  Generating code
+  All 4182 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  traffic-sign-detection.vcxproj -> C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\traffic-sign-detection\x64\Release\traffic-sign-detection.exe
+  traffic-sign-detection.vcxproj -> C:\Users\Hoang Ngoc HUNG\Desktop\OpenCV\traffic-sign-detection\x64\Release\traffic-sign-detection.pdb (Full PDB)

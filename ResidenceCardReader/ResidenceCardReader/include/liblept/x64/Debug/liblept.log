@@ -1,0 +1,369 @@
+﻿  adaptmap.c
+  affine.c
+  affinecompose.c
+  arrayaccess.c
+  bardecode.c
+  baseline.c
+  bbuffer.c
+  bilateral.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bbuffer.c(340): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bbuffer.c(411): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bbuffer.c(463): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  bilinear.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bardecode.c(225): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bardecode.c(242): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bardecode.c(259): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bardecode.c(276): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bardecode.c(293): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bardecode.c(316): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bardecode.c(386): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bardecode.c(466): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bardecode.c(565): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bardecode.c(680): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bardecode.c(764): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bardecode.c(847): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bardecode.c(967): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  binarize.c
+  binexpand.c
+  binreduce.c
+  blend.c
+  bmf.c
+  bmpio.c
+  bmpiostub.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bmf.c(501): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bmf.c(503): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bmf.c(505): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bmf.c(507): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bmf.c(509): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bmf.c(511): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bmf.c(513): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bmf.c(515): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bmf.c(517): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bmpio.c(217): warning C4018: '<': signed/unsigned mismatch
+  bootnumgen1.c
+  bootnumgen2.c
+  bootnumgen3.c
+  boxbasic.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bootnumgen2.c(282): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bootnumgen3.c(359): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bootnumgen1.c(266): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+  boxfunc1.c
+  boxfunc2.c
+  boxfunc3.c
+  boxfunc4.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\boxfunc3.c(697): warning C4101: 'dval': unreferenced local variable
+  bytearray.c
+  ccbord.c
+  ccthin.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\boxfunc4.c(1563): warning C4101: 'boxa1': unreferenced local variable
+  classapp.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\bytearray.c(436): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+  colorcontent.c
+  coloring.c
+  colormap.c
+  colormorph.c
+  colorquant1.c
+  colorquant2.c
+  colorseg.c
+  colorspace.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\colorquant1.c(2457): warning C4018: '<': signed/unsigned mismatch
+  compare.c
+  conncomp.c
+  convertfiles.c
+  convolve.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\compare.c(3110): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  correlscore.c
+  dewarp1.c
+  dewarp2.c
+  dewarp3.c
+  dewarp4.c
+  dnabasic.c
+  dnafunc1.c
+  dnahash.c
+  dwacomb.2.c
+  dwacomblow.2.c
+  edge.c
+  encoding.c
+  enhance.c
+  fhmtauto.c
+  fhmtgen.1.c
+  fhmtgenlow.1.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\fhmtauto.c(396): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\fhmtauto.c(598): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  finditalic.c
+  flipdetect.c
+  fliphmtgen.c
+  fmorphauto.c
+  fmorphgen.1.c
+  fmorphgenlow.1.c
+  fpix1.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\fmorphauto.c(458): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\fmorphauto.c(645): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  fpix2.c
+  gifio.c
+  gifiostub.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\fpix2.c(398): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\fpix2.c(618): warning C4018: '>': signed/unsigned mismatch
+  gplot.c
+  graphics.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\gifio.c(164): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2450): note: see declaration of 'fileno'
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\gifio.c(387): warning C4996: 'fileno': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _fileno. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2450): note: see declaration of 'fileno'
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\gifio.c(429): warning C4101: 'giferr': unreferenced local variable
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\gifio.c(658): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  graymorph.c
+  grayquant.c
+  grayquantlow.c
+  heap.c
+  jbclass.c
+  jp2kheader.c
+  jp2kheaderstub.c
+  jp2kio.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\jp2kheader.c(131): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  jp2kiostub.c
+  jpegio.c
+  jpegiostub.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\jp2kio.c(288): warning C4018: '<': signed/unsigned mismatch
+  kernel.c
+  leptwin.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\jpegio.c(905): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  libversions.c
+  list.c
+  map.c
+  morph.c
+  morphapp.c
+  morphdwa.c
+  morphseq.c
+  numabasic.c
+  numafunc1.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\morphseq.c(202): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\morphseq.c(372): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\morphseq.c(523): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\morphseq.c(674): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\morphseq.c(791): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  numafunc2.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\leptwin.c(179): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+  pageseg.c
+  paintcmap.c
+  parseprotos.c
+  partition.c
+  pdfio1.c
+  pdfio1stub.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\parseprotos.c(292): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\parseprotos.c(342): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\parseprotos.c(567): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\parseprotos.c(590): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\parseprotos.c(680): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\parseprotos.c(750): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\parseprotos.c(822): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\parseprotos.c(913): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  pdfio2.c
+  pdfio2stub.c
+  pix1.c
+  pix2.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pdfio2.c(712): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pdfio2.c(821): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pdfio2.c(1193): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+  pix3.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pdfio2.c(1362): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pdfio2.c(2022): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pdfio2.c(2080): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  pix4.c
+  pix5.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pix2.c(869): warning C4018: '>=': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pix2.c(1113): warning C4018: '>=': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pix2.c(1120): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pix2.c(1570): warning C4018: '>=': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pix2.c(1834): warning C4018: '>=': signed/unsigned mismatch
+  pixabasic.c
+  pixacc.c
+  pixafunc1.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pix5.c(2730): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pix5.c(2731): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pix5.c(2739): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pix5.c(2740): warning C4018: '>': signed/unsigned mismatch
+  pixafunc2.c
+  pixalloc.c
+  pixarith.c
+  pixcomp.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixalloc.c(210): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixalloc.c(220): warning C4267: '+=': conversion from 'size_t' to 'l_int32', possible loss of data
+  pixconv.c
+  pixlabel.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(496): warning C4018: '>=': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(513): warning C4018: '<=': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(692): warning C4018: '>=': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1192): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1193): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1194): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1195): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1196): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1197): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1198): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1199): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1201): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1202): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1203): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1204): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1206): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1207): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1209): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1373): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1374): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pixarith.c(1375): warning C4018: '>': signed/unsigned mismatch
+  pixtiling.c
+  pngio.c
+  pngiostub.c
+  pnmio.c
+  pnmiostub.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pngio.c(242): warning C4267: '=': conversion from 'size_t' to 'png_uint_32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pngio.c(287): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pngio.c(290): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pngio.c(296): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pngio.c(299): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pngio.c(310): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pngio.c(313): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pngio.c(383): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pngio.c(386): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pngio.c(388): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pngio.c(401): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pngio.c(404): warning C4018: '<': signed/unsigned mismatch
+  projective.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pngio.c(564): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pngio.c(1161): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pngio.c(1181): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pngio.c(1189): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\pngio.c(1191): warning C4018: '<': signed/unsigned mismatch
+  psio1.c
+  psio1stub.c
+  psio2.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\psio2.c(224): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\psio2.c(679): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\psio2.c(884): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\psio2.c(1076): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\psio2.c(1275): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\psio2.c(1554): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\psio2.c(1759): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  psio2stub.c
+  ptabasic.c
+  ptafunc1.c
+  ptafunc2.c
+  ptra.c
+  quadtree.c
+  queue.c
+  rank.c
+  rbtree.c
+  readbarcode.c
+  readfile.c
+  recogbasic.c
+  recogdid.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\recogbasic.c(1081): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  recogident.c
+  recogtrain.c
+  rop.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\recogtrain.c(251): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\recogtrain.c(1199): warning C4101: 'pixa': unreferenced local variable
+  ropiplow.c
+  roplow.c
+  rotate.c
+  rotateam.c
+  rotateamlow.c
+  rotateorth.c
+  rotateshear.c
+  runlength.c
+  sarray1.c
+  sarray2.c
+  scale.c
+  scalelow.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\sarray1.c(231): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\sarray1.c(282): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\sarray1.c(830): warning C4267: '+=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\sarray1.c(839): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\sarray2.c(196): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\sarray1.c(1041): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\sarray2.c(197): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\sarray1.c(1524): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  seedfill.c
+  seedfilllow.c
+  sel1.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\seedfill.c(1328): warning C4018: '>': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\seedfill.c(1346): warning C4018: '<=': signed/unsigned mismatch
+  sel2.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\sel1.c(1863): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  selgen.c
+  shear.c
+  skew.c
+  spixio.c
+  stack.c
+  stringcode.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\spixio.c(186): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\spixio.c(464): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  strokes.c
+  sudoku.c
+  textops.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\stringcode.c(442): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\stringcode.c(505): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\stringcode.c(729): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+  tiffio.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\strokes.c(403): warning C4101: 'i': unreferenced local variable
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\strokes.c(403): warning C4101: 'n': unreferenced local variable
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\strokes.c(403): warning C4101: 'd': unreferenced local variable
+  tiffiostub.c
+  utils.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\textops.c(593): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\textops.c(906): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\textops.c(995): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\textops.c(1085): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  viewfiles.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\tiffio.c(398): warning C4101: 'i': unreferenced local variable
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\tiffio.c(508): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\tiffio.c(540): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\tiffio.c(541): warning C4018: '<': signed/unsigned mismatch
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\tiffio.c(2163): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\tiffio.c(2199): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+  warper.c
+  watershed.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\watershed.c(666): warning C4018: '>=': signed/unsigned mismatch
+  webpio.c
+  webpiostub.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\webpio.c(185): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\webpio.c(188): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+  writefile.c
+  zlibmem.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(352): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(469): warning C4267: 'return': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(516): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(597): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(598): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(677): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(867): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(978): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(979): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(980): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(1093): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(1147): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(1328): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(1442): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(1541): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(2973): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(2979): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(2993): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(3001): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(3010): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(2964): warning C4996: 'getcwd': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getcwd. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\direct.h(91): note: see declaration of 'getcwd'
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(3227): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(3290): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(3293): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(3295): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(3354): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\utils.c(3357): warning C4267: '=': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\zlibmem.c(114): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\zlibmem.c(145): warning C4267: '=': conversion from 'size_t' to 'uInt', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\zlibmem.c(155): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+  zlibmemstub.c
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\zlibmem.c(216): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\zlibmem.c(241): warning C4267: '=': conversion from 'size_t' to 'uInt', possible loss of data
+c:\users\hoang ngoc hung\documents\vs2015_tesseract\leptonica\src\zlibmem.c(250): warning C4267: 'argument': conversion from 'size_t' to 'l_int32', possible loss of data
+  liblept.vcxproj -> C:\Users\Hoang Ngoc HUNG\Documents\VS2015_Tesseract\x64\Debug\liblept.lib
